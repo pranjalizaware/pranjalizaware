@@ -15,7 +15,7 @@
 
 
 
-## 🛠️ My Favorite Tools
+## 🛠️ Favourite Tools
 
 ### 👨‍💻 Programming Languages
 
