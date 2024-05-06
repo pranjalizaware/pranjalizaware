@@ -41,7 +41,7 @@ Hello, I'm Pranjali Rajaram Zaware!
 ### 💻 Software and Tools
 
 <p>
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%23FF0000.svg?logo=Selenium&logoColor=white"></a>
    
     
 </p>
