@@ -42,6 +42,7 @@ Hello, I'm Pranjali Rajaram Zaware!
 
 <p>
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%23FF0000.svg?logo=Selenium&logoColor=white"></a>
+     <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven%20-%23FF0000.svg?logo=Maven&logoColor=white"></a>
    
     
 </p>
