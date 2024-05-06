@@ -1,9 +1,8 @@
+<h1 align="center">Hello, I'm Pranjali Rajaram Zaware!</h1>
 
-<!--Hello, I'm Pranjali Rajaram Zaware-->
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>-->
 <!-- <img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
 <!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -33,6 +32,9 @@
 <p>
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%23FF0000.svg?logo=Selenium&logoColor=white"></a>
      <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven%20-%23FF0000.svg?logo=Maven&logoColor=white"></a>
+      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+        <a href="#"><img alt="TestNG" src="https://img.shields.io/badge/TestNG%20-%23F05033.svg?logo=TestNG&logoColor=white"></a>
    
     
 </p>
