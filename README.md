@@ -1,10 +1,10 @@
-<h1 align="center">
-Hello, I'm Pranjali Rajaram Zaware!
+
+<!--Hello, I'm Pranjali Rajaram Zaware-->
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>-->
 <!-- <img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
 <!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-<br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
