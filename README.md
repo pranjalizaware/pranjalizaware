@@ -44,7 +44,7 @@ Hello, I'm Pranjali Rajaram Zaware!
 
 <p align="center">
 
-<a href="www.linkedin.com/in/pranjali-zaware-b5b93b28a"><img src="https://img.shields.io/badge/-PranjaliZaware-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="(https://www.linkedin.com/in/pranjali-zaware-b5b93b28a/)"><img src="https://img.shields.io/badge/-PranjaliZaware-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pranjalizaware82@gmail.com"><img src="https://img.shields.io/badge/-pranjalizaware82@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
