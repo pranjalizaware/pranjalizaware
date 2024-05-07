@@ -1,6 +1,9 @@
 <h1 align="center">Hello, I'm Pranjali Zaware!</h1>
 <img width="" height = "" src="https://github.com/pranjalizaware/images/blob/main/software-code-testing-concept-illustration_114360-8174.jpg" alt="cover" />
 
+<!--![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)-->
+<h2 align="center" margin-top={0}> About Me</h2>
+
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>-->
 <!-- <img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
 <!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
@@ -9,10 +12,10 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <hr/>
-<samp>Experienced software tester adept in manual and automated testing methodologies. Specializing in automation with Selenium WebDriver, I possess strong command over Core Java, TestNG, Maven, and Page Object Model (POM). Let's collaborate to fortify the reliability and functionality of your software solutions!
+<h4 align='center'>Experienced software tester adept in manual and automated testing methodologies. Specializing in automation with Selenium WebDriver, I possess strong command over Core Java, TestNG, Maven, and Page Object Model (POM). Let's collaborate to fortify the reliability and functionality of your software solutions!</h4>
 
 
-</samp>
+<!--</samp>-->
 
 
 
