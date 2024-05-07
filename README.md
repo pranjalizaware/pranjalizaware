@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Pranjali Rajaram Zaware!</h1>
+<h1 align="center">Hello, I'm Pranjali Zaware!</h1>
 
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>-->
 <!-- <img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
@@ -8,7 +8,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <hr/>
-<samp> Experienced software tester with over 1.10 years of experience in manual testing. I specialize in automation testing using Selenium WebDriver, with expertise in Core Java, TestNG, Maven, and POM. Let's ensure the reliability and functionality of your software together!
+<samp>Experienced software tester adept in manual and automated testing methodologies. Specializing in automation with Selenium WebDriver, I possess strong command over Core Java, TestNG, Maven, and Page Object Model (POM). Let's collaborate to fortify the reliability and functionality of your software solutions!
 
 
 </samp>
