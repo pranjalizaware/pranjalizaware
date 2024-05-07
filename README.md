@@ -31,10 +31,11 @@
 
 <p>
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%23FF0000.svg?logo=Selenium&logoColor=white"></a>
-     <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven%20-%23FF0000.svg?logo=Maven&logoColor=white"></a>
+   <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven%20-%23C71A36.svg?logo=apache-maven&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-        <a href="#"><img alt="TestNG" src="https://img.shields.io/badge/TestNG%20-%23F05033.svg?logo=TestNG&logoColor=white"></a>
+   <a href="#"><img alt="TestNG" src="https://img.shields.io/badge/TestNG%20-%23C40000.svg?logo=java&logoColor=white"></a>
+  
    
     
 </p>
